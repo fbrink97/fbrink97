@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fbrink97
+- 👋 Hi, I’m Connor
 - 👀 I’m interested in getting into coding, I'm trying to change my career path!
 - 🌱 I’m currently learning computer science, and game coding
 - 💞️ I’m looking to collaborate on anything, I'm just trying to learn and any help is appreciated!
